@@ -213,3 +213,20 @@ build/
 *.exe
 *.mp3
 *.wav
+
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Env
+.env
